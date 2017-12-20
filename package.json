@@ -1,0 +1,29 @@
+{
+  "name": "mylitecoinwallet",
+  "version": "1.0.0",
+  "description": "A secure client-side wallet for Litecoin.",
+  "main": "index.js",
+  "author": "ninesalt",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "litecore-lib": "^0.13.22",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninesalt/MyLitecoinWallet.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "bugs": {
+    "url": "https://github.com/ninesalt/MyLitecoinWallet/issues"
+  },
+  "homepage": "https://github.com/ninesalt/MyLitecoinWallet#readme"
+}
